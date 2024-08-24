@@ -318,7 +318,7 @@ export default function Home() {
 						/>
 						<ContentBox
 							level={1}
-							index={6}
+							index={7}
 							title={'Dhritarashtra and Gandhari give birth to 100 Kauravas and Duhsala, their sister.'}
 							content={
 								<p>
@@ -344,6 +344,148 @@ export default function Home() {
 									Kaurava brothers, the eldest being Duryodhana, and the second Dushasana. Other Kaurava brothers
 									include Vikarna and Sukarna.`}
 								</p>
+							}
+						/>
+						<ContentBox
+							level={1}
+							index={8}
+							title={'Dhritarashtra and Gandhari give birth to 100 Kauravas and Duhsala, their sister.'}
+							content={
+								<p>
+									{`Dhritarashtra has`}
+									<ContentBox
+										level={2}
+										index={4}
+										title='hundred sons, '
+										content={
+											<p>
+												{`When Gandhari's pregnancy continued for an unusually long period of time, Her mother-in-law
+												Ambika and Ambalika were very upset with her. Pandu and Kunti earlier bore a son whom they named
+												Yudhishthira. So she beat her womb in frustration. This caused a hardened mass of grey-coloured
+												flesh to issue from her womb. She implored Vyasa, the great sage who had blessed her as "Shata
+												Putra Praptirasthu" (Sanskrit for "blessed with a hundred sons"), to redeem his words. Vyasa
+												divided the ball of flesh into one hundred and one equal pieces and put them in pots of milk,
+												which were sealed and buried into the earth for two years. At the end of the second year, the
+												first pot was opened, and Duryodhana emerged.`}
+											</p>
+										}
+									/>
+									{`and one daughter—Duhsala—through Gandhari, all born after the birth of Yudhishthira. These are the
+									Kaurava brothers, the eldest being Duryodhana, and the second Dushasana. Other Kaurava brothers
+									include Vikarna and Sukarna.`}
+								</p>
+							}
+						/>
+						<ContentBox
+							level={1}
+							index={9}
+							title={'Kauravas plot to burn pandavas alive.'}
+							content={
+								<p>
+									{`After the deaths of their mother (Madri) and father (Pandu), the Pandavas and their mother Kunti
+									return to the palace of Hastinapur. Yudhishthira is made Crown Prince by Dhritarashtra, under
+									considerable pressure from his courtiers. Dhritarashtra wanted his son Duryodhana to become king and
+									lets his ambition get in the way of preserving justice.`}
+									{`Shakuni, Duryodhana, and Dushasana plot to get rid of the Pandavas. Shakuni calls the architect
+									Purochana to build a palace out of flammable materials like lac and ghee. He then arranges for the
+									Pandavas and the Queen Mother Kunti to stay there, intending to set it alight. However, the Pandavas
+									are warned by their wise uncle, Vidura, who sends them a miner to dig a tunnel. They escape to safety
+									through the tunnel and go into hiding. During this time,`}
+									<ContentBox
+										level={2}
+										index={5}
+										title={'Bhima marries a demoness Hidimbi and has a son Ghatotkacha.'}
+										content={
+											<>
+												<p>
+													{`The story begins in the Lākṣāgṛha of the Mahābhārata after the Pāṇḍavās reached a dense
+													forest. Exhausted from their travels, they all fell asleep at night, except for Bhīma, who
+													kept watch.`}
+												</p>
+												<p>
+													{`In the same forest lived Hiḍimbi and her brother Hiḍimbā, a very powerful rakshasa. He smelled
+													the Pāṇḍavās at a distance and as usual asked Hiḍimbi to lure the well-built Bhīma into a trap
+													so he could eat him. Hiḍimbi confronted Bhīma and instead fell in love with him. She assumed
+													the form of a very beautiful lady and approached Bhīma, expressing her desire to marry him by
+													revealing her true identity, as well as her brother's intentions. Bhīma confronted Hiḍimbā,
+													and soon overpowered the rakshasa and`}
+													<ContentBox
+														level={3}
+														index={1}
+														title={'slew him. '}
+														content={
+															'Hidimba got furious at his sister and rushed towards her to kill her. Bhima interjected Hidimba and challenged him to fight him instead. The sleeping Pandavas woke up on hearing the sounds of them fighting and offered to help Bhima in killing Hidimba but Bhima asked them to watch the duel as spectators. Arjuna reminded Bhima that daybreak was about to set in and the demons become stronger at that time and Bhima should kill Hidimba as soon as possible. Bhima ended up crushing and tearing Hidimba into two pieces.'
+														}
+													/>
+													{`Kuntī and other Pāṇḍavās all watched the duel from a distance.`}
+												</p>
+												<p>
+													{`After killing Hiḍimba, Bhīma married Hiḍimbi. Bhīma decided to live with her till a child was
+													born. Hiḍimbi agreed, and they married. Within a year, Hiḍimbi gave birth to a son. They named
+													him Ghaṭotkacha, as his head resembled a pot. Ghaṭotkacha went on to become a great warrior
+													and an important figure in the Mahābhārata war.`}
+												</p>
+											</>
+										}
+									/>
+									{`Back in Hastinapur, the Pandavas and Kunti are presumed dead.`}
+								</p>
+							}
+						/>
+						<ContentBox
+							level={1}
+							index={10}
+							title={'Pandavas marry Draupadi.'}
+							content={
+								<p>
+									{`Whilst they were in hiding, the Pandavas learn of a swayamvara which is taking place for the hand of
+									the Pāñcāla princess Draupadī. The Pandavas, disguised as Brahmins, come to witness the event.
+									Meanwhile, Krishna, who has already befriended Draupadi, tells her to look out for Arjuna (though now
+									believed to be dead). The task was to string a mighty steel bow and shoot a target on the ceiling,
+									which was the eye of a moving artificial fish, while looking at its reflection in oil below. In
+									popular versions, after all the princes fail, many being unable to lift the bow, Karna proceeds to the
+									attempt but is interrupted by Draupadi who refuses to marry a suta. After this, the swayamvara is
+									opened to the Brahmins leading Arjuna to win the contest and marry Draupadi. The Pandavas return home
+									and inform their meditating mother that Arjuna has won a competition and to look at what they have
+									brought back. Without looking, Kunti asks them to share whatever Arjuna has won amongst themselves,
+									thinking it to be alms. Thus, Draupadi ends up being the wife of all five brothers.`}
+								</p>
+							}
+						/>
+						<ContentBox
+							level={1}
+							index={11}
+							title={'Pandavas Rule Indraprastha.'}
+							content={
+								<>
+									<p>
+										{`After the wedding, the Pandava brothers are invited back to Hastinapura. The Kuru family elders and
+										relatives negotiate and broker a split of the kingdom, with the Pandavas obtaining and demanding
+										only a wild forest inhabited by Takshaka, the king of snakes, and his family. Through hard work, the
+										Pandavas build a new glorious capital for the territory at Indraprastha.`}
+									</p>
+									<ContentBox
+										level={2}
+										index={6}
+										title={"Shortly after this, Arjuna elopes with and then marries Krishna's sister, Subhadra."}
+										content={`According to the Chaturdhara Recension of the Mahabharata, Arjuna was in the midst of self-imposed pilgrimage, for breaking terms of the agreement he had with his brothers regarding private time with their common wife Draupadi. After he reached the city of Dvaraka and met his maternal cousin Krishna, he attended a festival held at Raivata mountain. There Arjuna saw Subhadra and was smitten by her beauty and wished to marry her. Krishna revealed that she was Vasudeva's and Rohini's child, and his half-sister. Krishna stated that he could not predict Subhadra's decision at her svayamvara (groom selection ceremony) and advised Arjuna to elope with Subhadra. After receiving agreement to a letter sent to Yudhishthira for permission, Arjuna drove a chariot to the hills and took Subhadra with him. After Subhadra's guards unsuccessfully attempted to stop them, the Yadavas, the Vrishnis, and the Andhakas held a meeting to discuss the matter. After Krishna comforted them, they agreed, and thus, Arjuna married Subhadra with Vedic rituals.`}
+									/>
+									<p>
+										{`Yudhishthira wishes to establish his position as king; he seeks Krishna's advice. Krishna advises
+										him, and after due preparation and the elimination of some opposition, Yudhishthira carries out the
+										rājasūya yagna ceremony; he is thus recognized as pre-eminent among kings.`}
+									</p>
+									<p>
+										{`The Pandavas have a new palace built for them, by Maya the Danava. They invite their Kaurava
+										cousins to Indraprastha. Duryodhana walks round the palace, and mistakes a glossy floor for water,
+										and will not step in. After being told of his error, he then sees a pond and assumes it is not water
+										and falls in. Bhima, Arjuna, the twins and the servants laugh at him. In popular adaptations,
+										this insult is wrongly attributed to Draupadi, even though in the Sanskrit epic, it was the Pandavas
+										(except Yudhishthira) who had insulted Duryodhana. Enraged by the insult, and jealous at seeing the
+										wealth of the Pandavas, Duryodhana decides to host a dice-game on Shakuni's suggestion. This
+										suggestion was accepted by Yudhisthira despite the rest of the Pandavas advising him not to play.`}
+									</p>
+								</>
 							}
 						/>
 					</div>

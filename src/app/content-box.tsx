@@ -7,7 +7,7 @@ import { Collapsible, CollapsibleContent, CollapsibleTrigger } from '@/component
 
 export function ContentBox(props: { level: number; index: number; title: React.ReactNode; content: React.ReactNode }) {
 	const [isOpen, setIsOpen] = React.useState(false);
-	const code = `${props.level}${props.index}`;
+	const code = `${props.level}-${props.index}`;
 	return (
 		<Collapsible open={isOpen} onOpenChange={setIsOpen} className='max-w-screen w-fit'>
 			<CollapsibleTrigger asChild>
